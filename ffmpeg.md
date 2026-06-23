@@ -31,6 +31,6 @@ Audio is also uncompressed with `pcm_s24le`.
 
 ---
 
-`ffprobe -hide_banner input.mp4`
-
 Quickly check a file's codecs, resolution, bitrates, etc.
+
+`ffprobe -hide_banner input.mp4`
